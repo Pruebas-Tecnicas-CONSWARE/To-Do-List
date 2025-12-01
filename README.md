@@ -4,12 +4,12 @@ Aplicación móvil en Flutter para gestionar tareas personales.
 
 ## Características
 
-- ✅ CRUD completo (Crear, Leer, Actualizar, Eliminar)
-- 💾 Persistencia local con Hive
-- 🔄 Gestión de estado con Provider
-- 🎨 Interfaz moderna con animaciones
-- 📊 Estadísticas en tiempo real
-- ✅ Selección múltiple y eliminación en lote
+-  CRUD completo (Crear, Leer, Actualizar, Eliminar)
+-  Persistencia local con Hive
+-  Gestión de estado con Provider
+-  Interfaz moderna con animaciones
+-  Estadísticas en tiempo real
+-  Selección múltiple y eliminación en lote
 
 ## Instalación
 
